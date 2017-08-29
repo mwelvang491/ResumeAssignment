@@ -1,0 +1,8 @@
+{
+    "name": "ResumeAssignment",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Mitch W",
+    "contributors": [],
+    "dependencies": {}
+}
